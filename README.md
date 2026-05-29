@@ -282,7 +282,7 @@ For major changes, please open an **Issue** first to discuss what you'd like to 
 
 *It takes just one click — but it means the world and helps others discover this project.*
 
-[![Star this repo](https://img.shields.io/github/stars/your-username/maven-market-powerbi-dashboard?style=social)](https://github.com/your-username/maven-market-powerbi-dashboard)
+[![Star this repo](https://img.shields.io/github/stars/your-username/maven-market-powerbi-dashboard?style=social)](https://github.com/Mohanad234128/Maven-Market-Analysis.git)
 
 ---
 
