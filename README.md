@@ -210,8 +210,8 @@ Maven-Market-PowerBI-Dashboard/
 
 **1. Clone or Download the Repository**
 ```bash
-git clone https://github.com/your-username/maven-market-powerbi-dashboard.git
-cd maven-market-powerbi-dashboard
+git clone https://github.com/Mohanad234128/Maven-Market-Analysis.git
+cd Maven-Market-Analysis
 ```
 
 **2. Open the Dashboard**
@@ -286,6 +286,6 @@ For major changes, please open an **Issue** first to discuss what you'd like to 
 
 ---
 
-*Built with ❤️ and a lot of DAX — by [Your Name](https://github.com/your-username)*
+*Built with ❤️ and a lot of DAX — by [Mohanad Ibrahim Elsayed](https://github.com/Mohanad234128)*
 
 </div>
